@@ -46,14 +46,17 @@ A user-friendly web application, built with Streamlit, serves as the frontend fo
     ```bash
     git clone [https://github.com/chaitanyananepallicn/ANN-Customer-Churn-Predictor.git](https://github.com/chaitanyananepallicn/ANN-Customer-Churn-Predictor.git)
     ```
-2.  **Navigate to the project directory**:
-    ```bash
-    cd ANN-Customer-Churn-Predictor
-    ```
+    
 3.  **Install the required dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
+
+2.  **Navigate to the project directory**:
+    ```bash
+    cd ANN-Customer-Churn-Predictor
+    ```
+
 4.  **Run the Streamlit application**:
     ```bash
     streamlit run ChurnModeling-ANN/app.py
