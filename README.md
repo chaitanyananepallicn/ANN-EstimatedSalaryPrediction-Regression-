@@ -4,6 +4,13 @@
 
 This project uses an Artificial Neural Network (ANN) regression model to predict a customer's estimated salary based on their banking information and demographic data. The model is deployed as an interactive web application using Streamlit.
 
+## Live Application
+
+**You can access the live deployed application here:**
+
+[**➡️ Live Salary Predictor App**](https://mxxgaxfyxqdzg24d2d2kn2.streamlit.app/) 
+
+
 ## Project Overview
 
 The core of this project is a regression model trained to find a relationship between a customer's profile and their likely salary. This can be useful for targeted marketing, financial product recommendations, and understanding a bank's customer base.
@@ -44,7 +51,7 @@ A user-friendly web application, built with Streamlit, serves as the frontend fo
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/chaitanyananepallicn/ANN-Customer-Churn-Predictor.git](https://github.com/chaitanyananepallicn/ANN-Customer-Churn-Predictor.git)
+    git clone [[https://github.com/chaitanyananepallicn/ANN-Customer-Churn-Predictor.git](https://github.com/chaitanyananepallicn/ANN-Customer-Churn-Predictor.git)](https://github.com/chaitanyananepallicn/ANN-EstimatedSalaryPrediction-Regression-.git)
     ```
     
 3.  **Install the required dependencies**:
